@@ -15,7 +15,7 @@ export const projectsData: Project[] = [
         description: "A full-stack library management system built for librarians. Features a RESTful API with Node.js/Express.js, a MongoDB database, secure user authentication, comprehensive CRUD operations for books/readers, and a streamlined lending/returns process. Engineered with React/TypeScript and Tailwind CSS for a professional, responsive UI.",
         images: [
             // CORRECTED PATHS: Start with /projects/
-            "/projects/1/1.png",
+            "public/projects/1/1.png",
             "/projects/1/2.png",
             "/projects/1/3.png",
         ],
