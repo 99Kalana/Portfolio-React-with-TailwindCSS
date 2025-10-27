@@ -145,7 +145,7 @@ import React, { useState } from 'react';
 import { useTheme } from '../context/ThemeContext';
 import ThemeToggle from './ThemeToggle';
 
-import logoImage from '../assets/logo/kalana-logo.jpg'; 
+import logoImage from '../assets/logo/kalana-logo.png'; 
 
 const navLinks = [
   { name: 'About', href: '#about' },
