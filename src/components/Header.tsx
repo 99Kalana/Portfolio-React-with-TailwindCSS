@@ -145,6 +145,8 @@ import React, { useState } from 'react';
 import { useTheme } from '../context/ThemeContext';
 import ThemeToggle from './ThemeToggle';
 
+import logoImage from '../assets/logo/kalana-logo.jpg'; 
+
 const navLinks = [
   { name: 'About', href: '#about' },
   { name: 'Skills', href: '#skills' },
@@ -199,7 +201,7 @@ const Header: React.FC = () => {
           
           {/* Image Logo - ADDED rounded-full CLASS */}
           <img 
-            src="src\assets\logo\kalana-logo.jpg" 
+            src={logoImage} 
             alt="Kalana's Logo" 
             className="h-12 w-auto mx-0.5 transition duration-300 transform hover:scale-105 rounded-full" // <--- ADDED rounded-full HERE
           />
