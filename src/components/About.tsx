@@ -163,7 +163,7 @@ const About: React.FC = () => {
                         className="mt-8 text-center"
                     >
                         <a 
-                            href="src\assets\Resume\Kalana Sachinthana - RESUME.pdf" 
+                            href="/Resume/Kalana Sachinthana - RESUME.pdf" 
                             target="_blank"
                             rel="noopener noreferrer"
                             // THEME CHANGE: Button background and hover color
