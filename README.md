@@ -95,7 +95,6 @@ I'm currently seeking a **Full-Stack/Frontend/Backend Developer** or **Software 
 Feel free to connect with me!
 
 - **Email**: kalanasachinthana8@gmail.com
-- **LinkedIn**: [Your LinkedIn Profile Link]
-- **GitHub**: [Your GitHub Profile Link] (You're already here!)
+
 
 Thank you for reviewing my work!
