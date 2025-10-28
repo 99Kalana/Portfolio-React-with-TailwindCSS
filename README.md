@@ -1,6 +1,6 @@
 # Kalana Sachinthana | Developer Portfolio 🚀
 
-**Live Demo:** [Insert Vercel Deployment Link Here]
+**Live Demo:** [[Insert Vercel Deployment Link Here](https://portfolio-react-with-tailwind-css-two.vercel.app/)]
 
 ## 🌟 Overview
 
